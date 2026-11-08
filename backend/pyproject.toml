@@ -6,7 +6,7 @@ requires-python = ">=3.11"
 dependencies = [
     "fastapi>=0.115.5",
     "uvicorn[standard]>=0.32.1",
-    "langgraph>=0.2.55",
+    "langgraph>=1.2.14",
     "langchain-core>=1.4.1",
     "langchain-openai>=1.2.2",
     "sse-starlette>=2.2.1",
